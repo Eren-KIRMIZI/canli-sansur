@@ -20,6 +20,12 @@ VARSAYILAN_KUFURLER = [
 
 Listeyi uygulama içinden düzenleyerek genişletebilirsin.
 
+---
+
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/4eeb827b-57f5-4142-9dcd-6d7d536bcfd4" />
+
+---
+
 ## Özellikler
 
 - Gerçek zamanlı mikrofon dinleme
